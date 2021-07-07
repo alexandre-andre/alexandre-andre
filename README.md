@@ -1,6 +1,5 @@
 - 👋Olá, sou o Alexandre Andre
 - 👀Estou interesado em trabalhar como desenvolvedor web jr, estou comecando na carreira
-- 🌱Estou atualmente aprendendo JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC. 
 - Tenho conhecimentos em:
 HTML5, CSS3, SASS, Bootstrap
 
@@ -26,6 +25,7 @@ Sistema de grid
 Classes do Flexbox
 Margin & wrap
 
+- 🌱Estou atualmente aprendendo JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC.
 - 💞️Procuro colaborar com meus conhecimentos na area de frontend e em breve no backend
 - 📫Pode me contatar pelo linkedin www.linkedin.com/in/alexandre-andre-galvao ou por email andregpf89@gmail.com
 
