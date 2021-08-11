@@ -1,7 +1,7 @@
 - 👋Olá, sou o Alexandre Andre
 - 👀Estou interesado em trabalhar como desenvolvedor web jr, estou comecando na carreira
 - Tenho conhecimentos em:
-HTML5, CSS3, SASS, [Bootstrap](https://andre-bootstrap.netlify.app/), [JavaScript](https://andre-javascript.netlify.app/), ES6
+HTML5, CSS3, SASS, [Bootstrap](https://andre-bootstrap.netlify.app/), [JavaScript](https://andre-javascript.netlify.app/), [ES6](https://js-es6.netlify.app/)
 
 Formatacao de pagina com BS
 Formatacao de texto
