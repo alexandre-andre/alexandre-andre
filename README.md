@@ -1,7 +1,11 @@
 - 👋Olá, sou o Alexandre Andre
 - 👀Estou interesado em trabalhar como desenvolvedor web jr, estou comecando na carreira
-- Tenho conhecimentos em:
-HTML5, CSS3, SASS, [Bootstrap](https://andre-bootstrap.netlify.app/), [JavaScript](https://andre-javascript.netlify.app/), [ES6](https://js-es6.netlify.app/), React, Redux, RTL, JEST
+- Conhecimentos:
+HTML5, CSS3, SASS, Bootstrap, MVC, Unix & bash,
+JS, ES6, MySQL, JQuery, APIs, IONIC, react, MySQL, express, docker, MYSQL.
+
+- Aprendendo:
+mongodb, programação orientada a objetos, TypeScript, C#, JEST
 
 - 📫Pode me contatar pelo linkedin www.linkedin.com/in/alexandre-andre-galvao ou por email andregpf89@gmail.com
 
