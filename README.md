@@ -11,7 +11,7 @@ JS, ES6, MySQL, JQuery, APIs, IONIC, react, MySQL, express, docker, MYSQL.
 mongodb, programação orientada a objetos, TypeScript, C#, JEST, CI/CD
 
 - Contato:
-- [Linkedin](www.linkedin.com/in/alexandre-andre-galvao)
+- <a href="www.linkedin.com/in/alexandre-andre-galvao">Linkedin</a>
 - email: andregpf89@gmail.com
 
 <!---
