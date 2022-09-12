@@ -1,4 +1,4 @@
-- Alexandre Andre
+<h1 style="margin: 0">Alexandre Andre</h1>
 - Full stack em formação.
 - Interesado em trabalhar como desenvolvedor web jr.
 
