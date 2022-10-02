@@ -5,10 +5,10 @@
 
 <h3>Conhecimentos:</h3>
 HTML5, CSS3, SASS, Bootstrap, MVC, Unix & bash,
-JS, ES6, MySQL, JQuery, APIs, IONIC, react, MySQL, express, docker, MYSQL.
+JS, ES6, MySQL, JQuery, APIs, IONIC, react, MySQL, express, docker, MYSQL, mongodb.
 
 <h3>Aprendendo:</h3>
-mongodb, programação orientada a objetos, TypeScript, C#, JEST, CI/CD
+Programação orientada a objeto, CI/CD, Python, Raspagem de dados.
 
 <h3>Contato:</h3>
 <li>Linkedin: www.linkedin.com/in/alexandre-andre-galvao</li>
