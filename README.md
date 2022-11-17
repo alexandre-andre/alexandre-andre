@@ -4,11 +4,12 @@
 <li>Interesado em trabalhar como desenvolvedor web jr.</li>
 
 <h3>Conhecimentos:</h3>
-HTML5, CSS3, SASS, Bootstrap, MVC, Unix & bash,
-JS, ES6, MySQL, JQuery, APIs, IONIC, react, MySQL, express, docker, MYSQL, mongodb.
+HTML, CSS,SASS, Bootstrap, MVC, Unix & bash
+JavaScript, ES6, React, Testes, Redux, ContextAPI, ReactHooks
+Docker,  SQL, NoSQL, Node.js, ORM, Arquitetura de Software, TypeScript, POO, MongoDB, Programação orientada a objetos, TypeScript, Python,
 
 <h3>Aprendendo:</h3>
-Programação orientada a objeto, CI/CD, Python, Raspagem de dados.
+Raspagem de dados.
 
 <h3>Contato:</h3>
 <li>Linkedin: www.linkedin.com/in/alexandre-andre-galvao</li>
